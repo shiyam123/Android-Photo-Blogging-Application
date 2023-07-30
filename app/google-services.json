@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577882031641",
+    "project_id": "photo-blog-c8624",
+    "storage_bucket": "photo-blog-c8624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577882031641:android:59f20d3fdbfd1e14d64c88",
+        "android_client_info": {
+          "package_name": "com.example.photoblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577882031641-cr28urk7284svipvqtdb95027qchjr6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe9Mo9zlG3-p_5SJIt_mc5AKwTyG39YVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577882031641-cr28urk7284svipvqtdb95027qchjr6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

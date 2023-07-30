@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Photo Blog</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="email_hint">Your Email...</string>
+    <string name="login_btn_text">Login to account</string>
+    <string name="login_reg">Need a new account?</string>
+    <string name="desc_post">Add Description</string>
+    <string name="post_image">post image</string>
+    <string name="add_post">Add Post</string>
+    <string name="sett_btn">Account Settings</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+    <string name="Home">Home</string>
+    <string name="Account">Account</string>
+    <string name="Notify">Notification</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

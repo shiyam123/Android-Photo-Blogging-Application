@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@mipmap/search"
+        android:title="@string/search"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/account_btn_main"
+        android:checkable="false"
+        android:icon="@mipmap/account_icon"
+
+        android:title="Account settings"
+
+
+
+         />
+    <item
+        android:id="@+id/logout_btn_main"
+        android:icon="@mipmap/poweroff"
+        android:title="Logout"
+
+        app:showAsAction="always"
+         />
+</menu>
